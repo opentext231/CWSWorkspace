@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-B63B-AB824BC909BA">
+	<DocumentID>28DFEB6B-98A5-A1ED-B63B-AB824BC8C9BA</DocumentID>
+	<Name>28DFEB6B-98A5-A1ED-B63B-AB824BC8C9BA</Name>
+	<Description>download</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-04-12T05:01:09.367</CreationDate>
+	<Notes/>
+	<DefaultText>download</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="28DFEB6B-98A5-A1ED-B63A-E4A1957809BA"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1ED-B63B-AB824BC949BA"
+		/>
+	</Translations>
+</TextIdentifier>
