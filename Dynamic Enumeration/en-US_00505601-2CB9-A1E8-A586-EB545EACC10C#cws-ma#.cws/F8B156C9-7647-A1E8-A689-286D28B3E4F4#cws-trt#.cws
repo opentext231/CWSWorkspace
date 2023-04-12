@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A689-286D28B424F4">
+	<DocumentID>F8B156C9-7647-A1E8-A689-286D28B3E4F4</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A689-286D28B3E4F4</Name>
+	<Description>ContinentBPM</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-07T09:31:17.224</CreationDate>
+	<Notes/>
+	<Text>ContinentBPM</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A689-286D28B364F4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

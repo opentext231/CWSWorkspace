@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="9890969B-9F94-A1E8-B794-1FED2A4824D8">
+	<DocumentID>9890969B-9F94-A1E8-B794-1FED2A47E4D8</DocumentID>
+	<Name>9890969B-9F94-A1E8-B794-1FED2A47E4D8</Name>
+	<Description>DBPMRule</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-02T03:39:01.514</CreationDate>
+	<Notes/>
+	<DefaultText>DBPMRule</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="9890969B-9F94-A1E8-B794-1FED2A4864D8"
+		/>
+	</Translations>
+</TextIdentifier>

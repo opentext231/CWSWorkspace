@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBE-3DC33AADC117">
+	<DocumentID>00505601-2CB9-A1E8-BDBE-3DC33AAD8117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBE-3DC33AAD8117</Name>
+	<Description>ExpenseTypeRole_V_V_LBB</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:43:07.15</CreationDate>
+	<Notes/>
+	<Text>ExpenseTypeRole_V_V_LBB</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBE-3DC33AAD0117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

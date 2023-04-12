@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A71E-06FB88E9A4F5">
+	<DocumentID>F8B156C9-7647-A1E8-A71E-06FB88E964F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A71E-06FB88E964F5</Name>
+	<Description>CitiesBPM</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-10T08:34:12.554</CreationDate>
+	<Notes/>
+	<Text>CitiesBPM</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A71E-06FB88E8E4F5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

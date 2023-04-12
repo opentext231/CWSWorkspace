@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBC-6F61553D0117">
+	<DocumentID>00505601-2CB9-A1E8-BDBC-6F61553CC117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBC-6F61553CC117</Name>
+	<Description>Inbox Model Id</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:25:41.72</CreationDate>
+	<Notes/>
+	<Text>Inbox Model Id</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBC-6F61553C4117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

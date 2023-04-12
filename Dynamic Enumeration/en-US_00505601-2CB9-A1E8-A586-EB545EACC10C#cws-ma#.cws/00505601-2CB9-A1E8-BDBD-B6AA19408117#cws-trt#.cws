@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBD-B6AA1940C117">
+	<DocumentID>00505601-2CB9-A1E8-BDBD-B6AA19408117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBD-B6AA19408117</Name>
+	<Description>Employee Role Rule</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:28:38.622</CreationDate>
+	<Notes/>
+	<Text>Employee Role Rule</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBD-B6AA19400117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

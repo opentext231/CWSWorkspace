@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBE-96F858EDC117">
+	<DocumentID>00505601-2CB9-A1E8-BDBE-96F858ED8117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBE-96F858ED8117</Name>
+	<Description>LBB_GRID</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:54:22.843</CreationDate>
+	<Notes/>
+	<Text>LBB_GRID</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBE-96F858ED0117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

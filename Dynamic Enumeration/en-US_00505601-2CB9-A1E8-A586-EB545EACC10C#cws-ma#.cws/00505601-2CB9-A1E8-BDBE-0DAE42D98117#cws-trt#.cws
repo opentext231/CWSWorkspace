@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBE-0DAE42D9C117">
+	<DocumentID>00505601-2CB9-A1E8-BDBE-0DAE42D98117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBE-0DAE42D98117</Name>
+	<Description>DN_LBB</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:38:01.303</CreationDate>
+	<Notes/>
+	<Text>DN_LBB</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBE-0DAE42D90117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

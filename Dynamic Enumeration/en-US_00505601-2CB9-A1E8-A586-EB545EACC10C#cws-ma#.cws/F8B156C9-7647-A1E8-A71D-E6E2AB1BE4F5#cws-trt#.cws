@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A71D-E6E2AB1C24F5">
+	<DocumentID>F8B156C9-7647-A1E8-A71D-E6E2AB1BE4F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A71D-E6E2AB1BE4F5</Name>
+	<Description>Cities</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-10T08:37:54.054</CreationDate>
+	<Notes/>
+	<Text>Cities</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A71D-E6E2AB1B64F5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

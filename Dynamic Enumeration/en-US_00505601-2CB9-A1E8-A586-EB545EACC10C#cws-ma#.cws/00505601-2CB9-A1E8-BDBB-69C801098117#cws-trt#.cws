@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBB-69C80109C117">
+	<DocumentID>00505601-2CB9-A1E8-BDBB-69C801098117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBB-69C801098117</Name>
+	<Description>EmployeeRoleBPM_LBB</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T11:25:01.537</CreationDate>
+	<Notes/>
+	<Text>EmployeeRoleBPM_LBB</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBB-69C801090117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,37 @@
+<temp>
+    <EnumerationValue>
+      <Value>AF</Value>
+	  <DisplayName>NED-Africa</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AN</Value>
+	  <DisplayName>NED-Antarctica</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AS</Value>
+	  <DisplayName>NED-Asia</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>EU</Value>
+	  <DisplayName>NED-Europe</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>NA</Value>
+	  <DisplayName>NED-NorthAmerica</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>OC</Value>
+	  <DisplayName>NED-Oceania</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>SA</Value>
+	  <DisplayName>NED-SouthAmerica</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+</temp>

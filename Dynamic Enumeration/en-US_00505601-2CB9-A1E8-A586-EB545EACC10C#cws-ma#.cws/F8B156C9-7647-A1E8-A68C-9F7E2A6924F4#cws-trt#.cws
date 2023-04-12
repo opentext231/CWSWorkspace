@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A68C-9F7E2A6964F4">
+	<DocumentID>F8B156C9-7647-A1E8-A68C-9F7E2A6924F4</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A68C-9F7E2A6924F4</Name>
+	<Description>Country_NODBPM</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-07T11:13:14.612</CreationDate>
+	<Notes/>
+	<Text>Country_NODBPM</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A68C-9F7E2A68A4F4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

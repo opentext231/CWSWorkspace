@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBC-6F61556A0117">
+	<DocumentID>00505601-2CB9-A1E8-BDBC-6F615569C117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBC-6F615569C117</Name>
+	<Description>Exclusion List</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:25:41.724</CreationDate>
+	<Notes/>
+	<Text>Exclusion List</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBC-6F6155694117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

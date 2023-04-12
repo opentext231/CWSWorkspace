@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="3417EBB0-93FB-A1E8-B6D8-8BD40117A4D6">
+	<DocumentID>3417EBB0-93FB-A1E8-B6D8-8BD4011764D6</DocumentID>
+	<Name>3417EBB0-93FB-A1E8-B6D8-8BD4011764D6</Name>
+	<Description>Continet_D_ED</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-10-29T10:09:36.213</CreationDate>
+	<Notes/>
+	<Text>Continet_D_ED</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="3417EBB0-93FB-A1E8-B6D8-8BD40116E4D6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

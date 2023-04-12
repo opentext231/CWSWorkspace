@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-2E7318F324E9">
+	<DocumentID>F8B156D5-AF9F-A1E8-BFA5-2E7318F2E4E9</DocumentID>
+	<Name>F8B156D5-AF9F-A1E8-BFA5-2E7318F2E4E9</Name>
+	<Description>BPM Vlaue Different DisplayName Same</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-13T05:06:34.977</CreationDate>
+	<Notes/>
+	<DefaultText>BPM Vlaue Different DisplayName Same</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="F8B156D5-AF9F-A1E8-BFA5-2E7318F364E9"
+		/>
+	</Translations>
+</TextIdentifier>

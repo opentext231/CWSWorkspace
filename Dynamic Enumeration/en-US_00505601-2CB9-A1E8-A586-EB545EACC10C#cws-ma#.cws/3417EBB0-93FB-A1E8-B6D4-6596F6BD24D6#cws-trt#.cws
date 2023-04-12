@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="3417EBB0-93FB-A1E8-B6D4-6596F6BD64D6">
+	<DocumentID>3417EBB0-93FB-A1E8-B6D4-6596F6BD24D6</DocumentID>
+	<Name>3417EBB0-93FB-A1E8-B6D4-6596F6BD24D6</Name>
+	<Description>Continent Value ValueDisplayName</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-10-29T09:38:17.087</CreationDate>
+	<Notes/>
+	<Text>Continent Value ValueDisplayName</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="3417EBB0-93FB-A1E8-B6D4-6596F6BCA4D6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

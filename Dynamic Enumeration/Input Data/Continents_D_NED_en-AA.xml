@@ -1,0 +1,37 @@
+<temp>
+    <EnumerationValue>
+      <Value>AF</Value>
+	  <DisplayName>ŇËĎ - Äḟřïçä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AN</Value>
+	  <DisplayName>ŇËĎ - Äňṫäřçṫïçä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AS</Value>
+	  <DisplayName>ŇËĎ - Äśïä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>EU</Value>
+	  <DisplayName>ŇËĎ - Ëüřöṕë</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>NA</Value>
+	  <DisplayName>ŇËĎ - ŇöřṫḧÄḿëřïçä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>OC</Value>
+	  <DisplayName>ŇËĎ - Öçëäňïä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>SA</Value>
+	  <DisplayName>ŇËĎ - ŚöüṫḧÄḿëřïçä</DisplayName>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+</temp>

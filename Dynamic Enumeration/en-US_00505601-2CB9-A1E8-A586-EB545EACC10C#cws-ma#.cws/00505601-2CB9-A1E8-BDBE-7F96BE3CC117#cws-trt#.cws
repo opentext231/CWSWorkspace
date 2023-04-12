@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBE-7F96BE3D0117">
+	<DocumentID>00505601-2CB9-A1E8-BDBE-7F96BE3CC117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBE-7F96BE3CC117</Name>
+	<Description>ET_D_EDN</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:51:31.926</CreationDate>
+	<Notes/>
+	<Text>ET_D_EDN</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBE-7F96BE3C4117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

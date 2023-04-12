@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBB-6B4B85F64117">
+	<DocumentID>00505601-2CB9-A1E8-BDBB-6B4B85F60117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBB-6B4B85F60117</Name>
+	<Description>DynamicEnumWithLBB</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T11:23:26.156</CreationDate>
+	<Notes/>
+	<Text>DynamicEnumWithLBB</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BDBB-6B4B85F58117"
+		/>
+	</TextIdentifier>
+</TranslatedText>

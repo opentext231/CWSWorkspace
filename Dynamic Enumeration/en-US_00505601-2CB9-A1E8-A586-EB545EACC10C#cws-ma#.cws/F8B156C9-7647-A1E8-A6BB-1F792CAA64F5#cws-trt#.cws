@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A6BB-1F792CAAA4F5">
+	<DocumentID>F8B156C9-7647-A1E8-A6BB-1F792CAA64F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A6BB-1F792CAA64F5</Name>
+	<Description>Select Activity</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-08T09:34:37.024</CreationDate>
+	<Notes/>
+	<Text>Select Activity</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A6BB-1F792CA9E4F5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

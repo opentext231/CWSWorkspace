@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BBC0-8CCEC49E4115">
+	<DocumentID>00505601-2CB9-A1E8-BBC0-8CCEC49E0115</DocumentID>
+	<Name>00505601-2CB9-A1E8-BBC0-8CCEC49E0115</Name>
+	<Description>DisableDMProp</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-23T09:30:50.133</CreationDate>
+	<Notes/>
+	<DefaultText>DisableDMProp</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2CB9-A1E8-BBC0-8CCEC49E8115"
+		/>
+	</Translations>
+</TextIdentifier>

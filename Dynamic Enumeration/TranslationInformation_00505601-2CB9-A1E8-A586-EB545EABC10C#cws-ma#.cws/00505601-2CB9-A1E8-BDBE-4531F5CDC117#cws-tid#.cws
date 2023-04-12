@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BDBE-4531F5CE0117">
+	<DocumentID>00505601-2CB9-A1E8-BDBE-4531F5CDC117</DocumentID>
+	<Name>00505601-2CB9-A1E8-BDBE-4531F5CDC117</Name>
+	<Description>ExpenseTypeBPM_V_VD_LBB</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-03T12:43:55.35</CreationDate>
+	<Notes/>
+	<DefaultText>ExpenseTypeBPM_V_VD_LBB</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2CB9-A1E8-BDBE-4531F5CE4117"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="9890969B-9F94-A1E8-B794-377FE614E4D8">
+	<DocumentID>9890969B-9F94-A1E8-B794-377FE614A4D8</DocumentID>
+	<Name>9890969B-9F94-A1E8-B794-377FE614A4D8</Name>
+	<Description>DBPM_Set_With_Rule</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-02T03:42:42.754</CreationDate>
+	<Notes/>
+	<DefaultText>DBPM_Set_With_Rule</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="9890969B-9F94-A1E8-B794-377FE61524D8"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-A587-EFC2152F010C">
+	<DocumentID>00505601-2CB9-A1E8-A587-EFC2152EC10C</DocumentID>
+	<Name>00505601-2CB9-A1E8-A587-EFC2152EC10C</Name>
+	<Description>Signup</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-02T06:46:47.13</CreationDate>
+	<Notes/>
+	<Text>Signup</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-A587-EFC2152E410C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

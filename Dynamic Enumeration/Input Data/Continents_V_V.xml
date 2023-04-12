@@ -1,0 +1,30 @@
+<temp>
+    <EnumerationValue>
+      <Value>AF</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AN</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>AS</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>EU</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>NA</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>OC</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+ <EnumerationValue>
+      <Value>SA</Value>
+      <IsDefault>True</IsDefault>
+    </EnumerationValue>
+</temp>

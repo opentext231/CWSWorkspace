@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-481C0DB549ED">
+	<DocumentID>F8E4E393-F8B3-A1EC-A4C3-481C0DB509ED</DocumentID>
+	<Name>F8E4E393-F8B3-A1EC-A4C3-481C0DB509ED</Name>
+	<Description>Sign</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-02-21T12:00:05.114</CreationDate>
+	<Notes/>
+	<Text>Sign</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8E4E393-F8B3-A1EC-A4C3-481C0DB489ED"
+		/>
+	</TextIdentifier>
+</TranslatedText>

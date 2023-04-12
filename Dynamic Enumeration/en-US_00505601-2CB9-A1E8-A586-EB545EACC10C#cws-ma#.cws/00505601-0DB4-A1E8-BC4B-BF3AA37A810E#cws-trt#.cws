@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0DB4-A1E8-BC4B-BF3AA37AC10E">
+	<DocumentID>00505601-0DB4-A1E8-BC4B-BF3AA37A810E</DocumentID>
+	<Name>00505601-0DB4-A1E8-BC4B-BF3AA37A810E</Name>
+	<Description>SetDMProperty</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-26T04:35:09.324</CreationDate>
+	<Notes/>
+	<Text>SetDMProperty</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0DB4-A1E8-BC4B-BF3AA37A010E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

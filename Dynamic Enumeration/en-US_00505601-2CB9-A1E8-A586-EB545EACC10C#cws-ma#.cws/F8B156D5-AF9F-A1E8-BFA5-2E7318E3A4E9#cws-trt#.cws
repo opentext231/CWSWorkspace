@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-2E7318E3E4E9">
+	<DocumentID>F8B156D5-AF9F-A1E8-BFA5-2E7318E3A4E9</DocumentID>
+	<Name>F8B156D5-AF9F-A1E8-BFA5-2E7318E3A4E9</Name>
+	<Description>SignUP_DisplayName_Same_Error_List</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-13T05:07:53.089</CreationDate>
+	<Notes/>
+	<Text>SignUP_DisplayName_Same_Error_List</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156D5-AF9F-A1E8-BFA5-2E7318E324E9"
+		/>
+	</TextIdentifier>
+</TranslatedText>

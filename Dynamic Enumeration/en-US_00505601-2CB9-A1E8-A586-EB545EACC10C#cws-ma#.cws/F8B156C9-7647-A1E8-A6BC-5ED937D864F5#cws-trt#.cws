@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A6BC-5ED937D8A4F5">
+	<DocumentID>F8B156C9-7647-A1E8-A6BC-5ED937D864F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A6BC-5ED937D864F5</Name>
+	<Description>Continents</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-08T10:03:31.248</CreationDate>
+	<Notes/>
+	<Text>Continents</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A6BC-5ED937D7E4F5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

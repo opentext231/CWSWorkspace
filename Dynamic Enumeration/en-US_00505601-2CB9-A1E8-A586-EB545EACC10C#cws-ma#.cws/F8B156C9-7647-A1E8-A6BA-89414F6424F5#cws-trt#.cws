@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A6BA-89414F6464F5">
+	<DocumentID>F8B156C9-7647-A1E8-A6BA-89414F6424F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A6BA-89414F6424F5</Name>
+	<Description>ToPrice</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-08T09:09:03.635</CreationDate>
+	<Notes/>
+	<Text>ToPrice</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156C9-7647-A1E8-A6BA-89414F63A4F5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

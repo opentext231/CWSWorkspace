@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BBC0-8CCEC48DC115">
+	<DocumentID>00505601-2CB9-A1E8-BBC0-8CCEC48D8115</DocumentID>
+	<Name>00505601-2CB9-A1E8-BBC0-8CCEC48D8115</Name>
+	<Description>SetDM</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-23T09:30:50.129</CreationDate>
+	<Notes/>
+	<Text>SetDM</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BBC0-8CCEC48D0115"
+		/>
+	</TextIdentifier>
+</TranslatedText>

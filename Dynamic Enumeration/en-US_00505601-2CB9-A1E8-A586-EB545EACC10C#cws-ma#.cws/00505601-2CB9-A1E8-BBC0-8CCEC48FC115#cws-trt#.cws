@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2CB9-A1E8-BBC0-8CCEC4900115">
+	<DocumentID>00505601-2CB9-A1E8-BBC0-8CCEC48FC115</DocumentID>
+	<Name>00505601-2CB9-A1E8-BBC0-8CCEC48FC115</Name>
+	<Description>HideDMRule</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-11-23T09:30:50.128</CreationDate>
+	<Notes/>
+	<Text>HideDMRule</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2CB9-A1E8-BBC0-8CCEC48F4115"
+		/>
+	</TextIdentifier>
+</TranslatedText>

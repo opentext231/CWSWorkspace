@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="F8B156C9-7647-A1E8-A6E3-C1D0514264F5">
+	<DocumentID>F8B156C9-7647-A1E8-A6E3-C1D0514224F5</DocumentID>
+	<Name>F8B156C9-7647-A1E8-A6E3-C1D0514224F5</Name>
+	<Description>Select Activity - Selection</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-09T04:47:05.043</CreationDate>
+	<Notes/>
+	<DefaultText>Select Activity - Selection</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="F8B156C9-7647-A1E8-A6E3-C1D05142A4F5"
+		/>
+	</Translations>
+</TextIdentifier>

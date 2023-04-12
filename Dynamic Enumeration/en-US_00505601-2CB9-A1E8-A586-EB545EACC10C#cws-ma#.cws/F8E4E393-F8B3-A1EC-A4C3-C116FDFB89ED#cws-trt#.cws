@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-C116FDFBC9ED">
+	<DocumentID>F8E4E393-F8B3-A1EC-A4C3-C116FDFB89ED</DocumentID>
+	<Name>F8E4E393-F8B3-A1EC-A4C3-C116FDFB89ED</Name>
+	<Description>LRG</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-02-21T12:11:37.172</CreationDate>
+	<Notes/>
+	<Text>LRG</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8E4E393-F8B3-A1EC-A4C3-C116FDFB09ED"
+		/>
+	</TextIdentifier>
+</TranslatedText>

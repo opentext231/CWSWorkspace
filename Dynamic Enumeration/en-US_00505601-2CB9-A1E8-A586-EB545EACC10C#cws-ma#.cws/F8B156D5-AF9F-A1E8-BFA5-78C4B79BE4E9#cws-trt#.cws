@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-78C4B79C24E9">
+	<DocumentID>F8B156D5-AF9F-A1E8-BFA5-78C4B79BE4E9</DocumentID>
+	<Name>F8B156D5-AF9F-A1E8-BFA5-78C4B79BE4E9</Name>
+	<Description>Continent_V_VD_DSame_BPM</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-12-13T05:13:56.578</CreationDate>
+	<Notes/>
+	<Text>Continent_V_VD_DSame_BPM</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAC410C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="F8B156D5-AF9F-A1E8-BFA5-78C4B79B64E9"
+		/>
+	</TextIdentifier>
+</TranslatedText>

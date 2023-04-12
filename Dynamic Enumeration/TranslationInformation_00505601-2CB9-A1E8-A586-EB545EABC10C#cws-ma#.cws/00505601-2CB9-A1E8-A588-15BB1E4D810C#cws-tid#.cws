@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2CB9-A1E8-A588-15BB1E4DC10C">
+	<DocumentID>00505601-2CB9-A1E8-A588-15BB1E4D810C</DocumentID>
+	<Name>00505601-2CB9-A1E8-A588-15BB1E4D810C</Name>
+	<Description>Create Your Account</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-08-02T06:52:36.73</CreationDate>
+	<Notes/>
+	<DefaultText>Create Your Account</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-2CB9-A1E8-A586-EB545EAB410C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2CB9-A1E8-A588-15BB1E4E010C"
+		/>
+	</Translations>
+</TextIdentifier>
