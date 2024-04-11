@@ -575,7 +575,7 @@
 		</IdentityBuildingBlock>
 		<InboxTaskBuildingBlock
 			type="com.cordys.entity.buildingblocks.inboxtask.InboxTaskBuildingBlock"
-			typeVersion="4936c25f-e321-4398-8ae8-d69178136b4d"
+			typeVersion="33186206-7B8F-4F57-A470-70D2CE850F9A"
 			RuntimeDocumentID="90B11C8A-3947-11E5-F7F0-5406E6CE7FCB">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-80DE4E3FC9ED</DocumentID>
 			<Name>Task</Name>
@@ -2413,7 +2413,7 @@
 					<CreationDate>2022-02-21T12:02:13.173</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
-					<DataType>Decimal</DataType>
+					<DataType>IntegerValueList</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -2447,30 +2447,154 @@
 						</TranslatableText>
 					</DisplayName>
 					<OwnedTypeDefinition>
-						<DecimalPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.number.DecimalPropertyDefinition"
-							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-80DE4E4409ED">
-							<DocumentID>F8E4E393-F8B3-A1EC-A4C3-80DE4E43C9ED</DocumentID>
-							<Name>F8E4E393-F8B3-A1EC-A4C3-80DE4E43C9ED</Name>
-							<Description>F8E4E393-F8B3-A1EC-A4C3-80DE4E43C9ED</Description>
+						<IntegerEnumPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.staticEnum.IntegerEnumPropertyDefinition"
+							typeVersion="005056C0-0008-11E6-ECD4-9ED50A5ADB27 4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723049E7">
+							<DocumentID>9CAD0E02-B484-3DB2-AEF2-6E98E8388A53</DocumentID>
+							<Name>9CAD0E02-B484-3DB2-AEF2-6E98E8388A53</Name>
+							<Description/>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-02-21T12:02:13.155</CreationDate>
+							<CreationDate>2024-04-11T13:39:28.542</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
-							<DigitsLeftOfDecimal>18</DigitsLeftOfDecimal>
-							<DigitsRightOfDecimal>0</DigitsRightOfDecimal>
-							<Max></Max>
-							<Min></Min>
+							<IsEnumerationSorted>false</IsEnumerationSorted>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
+							<DefaultEnum/>
+							<Enums/>
 							<Type/>
-						</DecimalPropertyDefinition>
+							<ValuesDefinition>
+								<StaticIntegerEnumSet
+									type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnumSet"
+									RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723089E7">
+									<DocumentID>789387DF-FA35-3731-9EAF-999D8A8632B6</DocumentID>
+									<Name>789387DF-FA35-3731-9EAF-999D8A8632B6</Name>
+									<Description/>
+									<CreatedBy>sysadmin</CreatedBy>
+									<CreationDate>2024-04-11T13:39:25.244</CreationDate>
+									<Notes/>
+									<DefaultEnum/>
+									<Enums>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-36607230C9E7">
+											<DocumentID>E98B6113-ED1F-3CB9-9504-65E07AE8EF4C</DocumentID>
+											<Name>E98B6113-ED1F-3CB9-9504-65E07AE8EF4C</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2024-04-11T13:39:24.5</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>1</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="789387DF-FA35-3731-9EAF-999D8A8632B6"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723109E7">
+													<DocumentID>23779417-5FB0-35B8-9FFE-F4F99E696650</DocumentID>
+													<Name>23779417-5FB0-35B8-9FFE-F4F99E696650</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2024-04-11T13:39:26.132</CreationDate>
+													<Notes/>
+													<DeveloperText>Low</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723149E7">
+											<DocumentID>DE4AFDD3-4E6B-3834-BDD7-23EBDFE1FF79</DocumentID>
+											<Name>DE4AFDD3-4E6B-3834-BDD7-23EBDFE1FF79</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2024-04-11T13:39:25.325</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>5</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="789387DF-FA35-3731-9EAF-999D8A8632B6"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723189E7">
+													<DocumentID>1D2B5754-4AF2-3326-A903-D8503DAADDA4</DocumentID>
+													<Name>1D2B5754-4AF2-3326-A903-D8503DAADDA4</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2024-04-11T13:39:27.366</CreationDate>
+													<Notes/>
+													<DeveloperText>High</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-36607231C9E7">
+											<DocumentID>46D288B5-5A8F-35E1-BE3C-6A1242AC3D4C</DocumentID>
+											<Name>46D288B5-5A8F-35E1-BE3C-6A1242AC3D4C</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2024-04-11T13:39:24.564</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>3</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="789387DF-FA35-3731-9EAF-999D8A8632B6"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="28DFEB6B-98A5-A1EE-BE02-3660723209E7">
+													<DocumentID>C12B9440-2F8A-3BC4-A44C-F53BE45AA76A</DocumentID>
+													<Name>C12B9440-2F8A-3BC4-A44C-F53BE45AA76A</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2024-04-11T13:39:26.132</CreationDate>
+													<Notes/>
+													<DeveloperText>Normal</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+									</Enums>
+									<PropertyDefinition>
+										<uri
+											id="9CAD0E02-B484-3DB2-AEF2-6E98E8388A53"
+										/>
+									</PropertyDefinition>
+								</StaticIntegerEnumSet>
+							</ValuesDefinition>
+						</IntegerEnumPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="F8E4E393-F8B3-A1EC-A4C3-80DE4E43C9ED"
+							id="9CAD0E02-B484-3DB2-AEF2-6E98E8388A53"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -4196,7 +4320,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4265,7 +4389,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4334,7 +4458,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>
@@ -4403,7 +4527,7 @@
 					<DataType>Text</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
-					<IsComputedProperty>true</IsComputedProperty>
+					<IsComputedProperty>false</IsComputedProperty>
 					<IsReadOnly>false</IsReadOnly>
 					<IsRequired>false</IsRequired>
 					<IsValueUnique>false</IsValueUnique>

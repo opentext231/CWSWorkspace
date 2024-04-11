@@ -38,7 +38,7 @@
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-92031C7424E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-92031C73E4E9</DocumentID>
 			<Name>FormsFragment</Name>
@@ -76,7 +76,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-92031C7324E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-92031C72E4E9</DocumentID>
 			<Name>FormFragmentContainerComponentBSL3741PW62U58KTLFRPVPMC1II0SJ5G</Name>

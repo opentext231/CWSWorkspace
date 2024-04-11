@@ -20,6 +20,7 @@
 	<HideIfNoResults>false</HideIfNoResults>
 	<IsCardViewEnabled>false</IsCardViewEnabled>
 	<IsChartViewEnabled>false</IsChartViewEnabled>
+	<IsHighlightUnread>false</IsHighlightUnread>
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId></LayoutId>
@@ -62,7 +63,7 @@
 	<FilterCriteria>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-0DB4-A1EC-98EC-C36C582D8158">
 			<DocumentID>00505601-0DB4-A1EC-98EC-C36C582D4158</DocumentID>
 			<Name>00505601-0DB4-A1EC-98EC-C36C582D4158</Name>
@@ -110,7 +111,7 @@
 	<WorklistColumns>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-2E7318E224E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-2E7318E1E4E9</DocumentID>
 			<Name>Untitled WorklistColumn</Name>

@@ -11,15 +11,20 @@
 	<CreationDate>2018-11-18T20:34:15.914</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference></BusinessProcessReference>
 	<BusinessProcessReferenceName></BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>false</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression>item.qpid(005056012CB9A1E8A58808DEEBEE810C.005056012CB9A1E8A58808DEEBEE010C)==&quot;RishabhaRules&quot;</Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -69,7 +74,7 @@
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADC-35EC13F0C115">
 			<DocumentID>00505601-2CB9-A1E8-BADC-35EC13F08115</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -142,7 +147,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADC-35EC13EFC115">
 			<DocumentID>00505601-2CB9-A1E8-BADC-35EC13EF8115</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -175,7 +180,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADC-35EC13F04115">
 			<DocumentID>00505601-2CB9-A1E8-BADC-35EC13F00115</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>

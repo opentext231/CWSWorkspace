@@ -18,9 +18,13 @@
 	<BusinessProcessReferenceName></BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>false</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression>item.qpid(005056012CB9A1E8A58808DEEBEE810C.005056012CB9A1E8A58808DEEBEE010C)==&quot;RishabhaRules&quot;</Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -110,7 +114,7 @@
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADE-D12CA79D4115">
 			<DocumentID>00505601-2CB9-A1E8-BADE-D12CA79D0115</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -183,7 +187,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADE-D12CA79C4115">
 			<DocumentID>00505601-2CB9-A1E8-BADE-D12CA79C0115</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -216,7 +220,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2CB9-A1E8-BADE-D12CA79CC115">
 			<DocumentID>00505601-2CB9-A1E8-BADE-D12CA79C8115</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>

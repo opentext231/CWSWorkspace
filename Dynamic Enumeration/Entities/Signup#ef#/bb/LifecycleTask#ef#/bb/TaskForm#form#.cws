@@ -20,7 +20,7 @@
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-86D707AC09ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-86D707ABC9ED</DocumentID>
 			<Name>FormsFragment</Name>
@@ -58,7 +58,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-86D707AB89ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-86D707AB49ED</DocumentID>
 			<Name>FormPropertyComponentTR8YOUA5GF7581QPRGYXAIXKKHL6MONR</Name>
@@ -142,7 +142,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-86D707AA89ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-86D707AA49ED</DocumentID>
 			<Name>FormPropertyComponentXKWRO7O5AL22I9QDA0AH43JR05OCDBAF</Name>
@@ -226,7 +226,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-86D707A989ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-86D707A949ED</DocumentID>
 			<Name>FormPropertyComponentGLOH5GTHHDG81U4BIUDU3C9ID3KJCBXS</Name>
@@ -310,7 +310,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-86D707A889ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-86D707A849ED</DocumentID>
 			<Name>FormPropertyComponentK4QQEOHU7TTWBJA3DP8004S972KL9XWB</Name>

@@ -38,7 +38,7 @@
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-92031C78A4E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-92031C7864E9</DocumentID>
 			<Name>FormsFragment</Name>
@@ -76,7 +76,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-92031C77A4E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-92031C7764E9</DocumentID>
 			<Name>FormPropertyComponentB52X4R5FEB2SXBJGJMD6HA05U2UU1QJ7</Name>
@@ -122,7 +122,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="F8B156D5-AF9F-A1E8-BFA5-92031C76A4E9">
 			<DocumentID>F8B156D5-AF9F-A1E8-BFA5-92031C7664E9</DocumentID>
 			<Name>FormPropertyComponentGEC5HL0GG97C07VUK5TPGGWGFJ4WU56N</Name>

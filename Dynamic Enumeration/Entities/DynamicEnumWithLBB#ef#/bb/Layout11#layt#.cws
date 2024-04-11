@@ -49,7 +49,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-C116FDF409ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-C116FDF3C9ED</DocumentID>
 			<Name>Actions</Name>
@@ -68,13 +68,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-C116FDF389ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-C116FDF349ED</DocumentID>
 			<Name>Breadcrumbs</Name>
@@ -93,13 +95,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-C116FDF309ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-C116FDF2C9ED</DocumentID>
 			<Name>Form</Name>
@@ -122,13 +126,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-A4C3-C116FDF089ED">
 			<DocumentID>F8E4E393-F8B3-A1EC-A4C3-C116FDF049ED</DocumentID>
 			<Name>TaskPanel</Name>
@@ -147,9 +153,11 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>
